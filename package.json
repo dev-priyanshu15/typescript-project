@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "next-themes": "^0.3.0",
     "node-cron": "^3.0.3",
     "redis": "^4.6.15"
   },
